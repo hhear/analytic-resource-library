@@ -15,18 +15,18 @@ feature_row:
     url: /getting-started/
     btn_label: "Open"
     btn_class: "btn--primary"
-  - image_path: /assets/images/icon-tutorials.png
-    alt: "Tutorials"
-    title: "Training & Tutorials"
-    excerpt: "Short videos and step-by-step guides."
-    url: /tutorials/
-    btn_label: "Open"
-    btn_class: "btn--primary"
 - image_path: /assets/images/icon-metadata.png
     alt: "Metadata"
     title: "Data & Metadata Annotations"
     excerpt: "Key notes on study-specific harmonized data"
     url: /data-metadata/
+    btn_label: "Open"
+    btn_class: "btn--primary"
+ - image_path: /assets/images/icon-tutorials.png
+    alt: "Tutorials"
+    title: "Training & Tutorials"
+    excerpt: "Short videos and step-by-step guides."
+    url: /tutorials/
     btn_label: "Open"
     btn_class: "btn--primary"
 feature_row2:
