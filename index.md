@@ -1,21 +1,20 @@
 ---
 title: "HHEAR Analytic Resource Library"
 layout: splash
-permalink: /
 header:
-overlay_color: "#000"
-overlay_filter: "0.25"
-overlay_image: /assets/images/hhear-main-logo.png
-excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
+ overlay_color: "#000"
+ overlay_filter: "0.25"
+ overlay_image: /assets/images/hhear-main-logo.png
+ excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
 feature_row:
   - alt: "Getting started"
-    title: "Getting Started with the HHEAR Repository"
+    title: "Getting Started"
     excerpt: "What the repository contains, how to access it, and core concepts."
     url: /getting-started/
     btn_label: "Open"
     btn_class: "btn--primary"
-  - alt: "Annotations"
-    title: "Data & Metadata Annotations"
+  - alt: "Annotations" 
+    title: "Data Annotations"
     excerpt: "Important notes on study-specific data & metadata."
     url: /data-metadata/
     btn_label: "Open"
@@ -28,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - alt: "Code"
-    title: "Data Cleaning and Analytic Code"
+    title: "Programming Code"
     excerpt: "R Code to conduct common data cleaning and analytic procedures"
     url: /examples/
     btn_label: "Open"
@@ -48,7 +47,7 @@ feature_row2:
 
 - **Access the Repository:** [link here](https://hheardatacenter.mssm.edu)
 - **View the Ontology:** [link here](https://bioportal.bioontology.org/ontologies/HHEAR)
-- **Read the HHEAR Publication Policy:** [link here](https://hheardatacenter.mssm.edu/Resource/Get)
+- **Read the HHEAR Publication Policy:** [link here](https://hheardatacenter.mssm.edu/HHEAR-ExternalPublicationsPolicy-2024-09-06_0.pdf)
 
 
 ## About this site
