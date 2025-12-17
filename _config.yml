@@ -7,6 +7,9 @@ baseurl: "/analytic-resource-library"
 # Theme (remote)
 remote_theme: "mmistakes/minimal-mistakes"
 
+atom_feed:
+	hide: true
+
 # Keep the site looking like a documentation/resource hub (not a blog)
 plugins:
   - jekyll-include-cache
