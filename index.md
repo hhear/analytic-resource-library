@@ -2,10 +2,10 @@
 title: "HHEAR Analytic Resource Library"
 layout: splash
 header:
- overlay_color: "#000"
+ overlay_color: "#1F3A5F"
  overlay_filter: "0.25"
- overlay_image: /assets/images/hhear-main-logo.png
- excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
+ 
+excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
 feature_row:
   - alt: "Getting started"
     title: "Getting Started"
