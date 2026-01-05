@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 permalink: /getting-started/
+show_prev_next: false
 ---
 
 ## About the HHEAR Data Repository
