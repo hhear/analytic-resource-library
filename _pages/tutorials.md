@@ -49,24 +49,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # STEP-BY-STEP GUIDES
 
-**1. STUDY-LEVEL SEARCH USER GUIDES:** PDF | WORD
+**1. STUDY-LEVEL SEARCH USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Study-Level-Search-User-Guide-2026.pdf) | WORD
 
-**2. DATA-LEVEL SEARCH USER GUIDES:** PDF | WORD
+**2. DATA-LEVEL SEARCH USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Data-Level-Search-User-Guide-2026.pdf) | WORD
 
-**3. DATA OUTPUT USER GUIDES:** PDF | WORD
+**3. DATA OUTPUT USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Data-Output-User-Guide-2026.pdf) | WORD
 
-**4. INTERPRETING COLUMN HEADERS AND LABELS:** PDF | WORD
+**4. INTERPRETING COLUMN HEADERS AND LABELS:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Column-Headers-Labels-Guide-2026.pdf) | WORD
 
 **5. HHEAR DATA OVERVIEW:** PDF | WORD
 
-
-
-# HHEAR DATA FAQS
-
-_What time periods may be included in HHEAR datasets?_
-
-![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/efdf42cb4760379a786d29e7eadadf57f9e96837/assets/images/resource%20images/TimePeriods.png)
-
-_What sample types may be included in HHEAR datasets?_
-
-![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/efdf42cb4760379a786d29e7eadadf57f9e96837/assets/images/resource%20images/SampleTypes.png)
