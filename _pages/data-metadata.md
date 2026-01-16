@@ -18,8 +18,13 @@ permalink: /data-metadata/
   The Master Codebook provides a reference of all variables and codes used across the repository, spanning all studies and all harmonized datasets. It is organized into sections to make it easier to identify the types of data available.
 Codebooks are automatically generated based on the specific studies and datasets selected for download; users should prioritize the study-specific codebook included with their download.
 
-- **Notes for Specific Studies:** [link](/assets/Study_Notes.csv)
+  The Master Codebook is an open-access reference that provides an overview of all variables and codes used across the repository, spanning all studies and all harmonized datasets. It is organized into sections to make it easier to identify the types of data available. The Master Codebook is intended for quick look-ups and to understand the types of data available, rather than for direct analytic use.
 
+- **Example Codebook:** [link]
+
+  This Example Codebook illustrates the structure and format of a study-specific codebook generated at the time of data download, based on a selection of three studies in the repository. Codebooks generated with a user’s selected studies and datasets are designed to be imported directly into statistical software (e.g., R) and should be used for analysis. Users should rely on the codebook included with their download rather than the Master Codebook when working with data.
+
+- **Notes for Specific Studies:** [link](/assets/Study_Notes.csv)
 
   This CSV file lists all current studies in the repository by their study identifier and indicates whether a study has associated notes or special considerations.
 
