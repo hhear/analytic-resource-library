@@ -21,6 +21,10 @@ locale: "en-US"
 # Header / footer
 masthead_title: ""   # set to title if you want; empty uses site title
 breadcrumbs: true
+copyright: > 
+	@ 2026
+	<a href="https://hheardatacenter.mssm.edu"> HHEAR Data Repository</a>
+
 
 # Remove blog-like behavior
 collections:
