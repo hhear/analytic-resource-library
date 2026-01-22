@@ -49,13 +49,13 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # STEP-BY-STEP GUIDES
 
-**1. STUDY-LEVEL SEARCH USER GUIDES:** [PDF](.../assets/files/Study-Level-Search-User-Guide-2026.pdf)
+**1. STUDY-LEVEL SEARCH USER GUIDES:** [PDF](../assets/files/Study-Level-Search-User-Guide-2026.pdf)
 
-**2. DATA-LEVEL SEARCH USER GUIDES:** [PDF](.../assets/files/Data-Level-Search-User-Guide-2026.pdf)
+**2. DATA-LEVEL SEARCH USER GUIDES:** [PDF](../assets/files/Data-Level-Search-User-Guide-2026.pdf)
 
-**3. DATA OUTPUT USER GUIDES:** [PDF](.../assets/files/Data-Output-User-Guide-2026.pdf)
+**3. DATA OUTPUT USER GUIDES:** [PDF](../assets/files/Data-Output-User-Guide-2026.pdf)
 
-**4. INTERPRETING COLUMN HEADERS AND LABELS:** [PDF](.../assets/files/Column-Headers-Labels-Guide-2026.pdf) 
+**4. INTERPRETING COLUMN HEADERS AND LABELS:** [PDF](../assets/files/Column-Headers-Labels-Guide-2026.pdf) 
 
-**5. HHEAR DATA OVERVIEW:** [PDF](.../assets/files/Data-Overview-Guide-2026.pdf) 
+**5. HHEAR DATA OVERVIEW:** [PDF](../assets/files/Data-Overview-Guide-2026.pdf) 
 
