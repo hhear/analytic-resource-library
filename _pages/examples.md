@@ -1,6 +1,6 @@
 ---
 title: "Programming Code"
-permalink: /code/
+permalink: /examples/
 ---
 
 ## Common Cleaning workflows
@@ -16,7 +16,7 @@ The following were developed to facilitate analysis of harmonized data files gen
 
 ## Suggested citation text
 
-HHEAR Data Center (2026).<<Name of Progam (Version No.).>> https://github.com/hhear/analytic-resource-library
+HHEAR Data Center (2026).<<Name of Program (Version No.).>> https://github.com/hhear/analytic-resource-library
 
 Example: HHEAR Data Center (2026). Phenotype Cleaning (Version 1.0). https://github.com/hhear/analytic-resource-library
 
