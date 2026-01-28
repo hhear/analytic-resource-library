@@ -15,9 +15,7 @@ permalink: /data-metadata/
 
 - **Master Codebook:** [link](../assets/files/Master_Codebook_Sorted.xlsx)
 
-  The Master Codebook provides a reference of all variables and codes used across the repository, spanning all studies and all harmonized datasets. It is organized into sections to make it easier to identify the types of data available.
-  
-Codebooks are automatically generated based on the specific studies and datasets selected for download; users should prioritize the study-specific codebook included with their download.
+  The Master Codebook provides a reference of all variables and codes used across the repository, spanning all studies and all harmonized datasets. It is organized into sections to make it easier to identify the types of data available. Codebooks are automatically generated based on the specific studies and datasets selected for download; users should prioritize the study-specific codebook included with their download.
 
 - **Example Codebook:** [link](../assets/files/example_codebook.csv)
 
