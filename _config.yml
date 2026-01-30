@@ -2,7 +2,7 @@ copyright: "HHEAR Data Repository"
 copyright_url: "https://hheardatacenter.mssm.edu"
 
 # Site settings
-
+title: ""
 
 # Theme (remote)
 remote_theme: "mmistakes/minimal-mistakes"
